@@ -1,0 +1,2 @@
+Python script to detect face via a webcam and lock your screen if it
+cannot detect the face during 5 secs
